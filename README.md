@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @sairam546
-- 🌱 I’m currently learning golang, linkerd
 - 💞️ I’m looking to collaborate on devops related projects
 - 📫 Reach me at sairam546@gmail.com
